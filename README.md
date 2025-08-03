@@ -15,7 +15,7 @@ This is a modern, responsive Weather App built using **HTML**, **CSS**, and **Ja
 -  Animated background using CSS `@keyframes` and linear gradients
 -  Smooth element animations with **GSAP**
 -  Fully responsive design for all screen sizes
-- 🛠 Error handling for invalid or empty city input
+-  Error handling for invalid or empty city input
 
 ---
 
@@ -26,6 +26,7 @@ This is a modern, responsive Weather App built using **HTML**, **CSS**, and **Ja
 - **JavaScript (Vanilla)** – Logic and API integration  
 - **GSAP** – For smooth and elegant animations  
 - **OpenWeatherMap API** – For fetching live weather data
+
 
 
 
